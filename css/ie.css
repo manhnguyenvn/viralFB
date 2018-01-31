@@ -1,0 +1,23 @@
+body{
+    background-image: url("") !important;
+}
+
+.fa{
+    display: none !important;
+}
+
+.login-fb{
+    width: 55%;
+}
+
+.share-on-facebook{
+    width: 55%;
+}
+
+.presentation-image{
+   width: 90% !important;
+}
+
+#cssload-contain{
+    display: none;
+}

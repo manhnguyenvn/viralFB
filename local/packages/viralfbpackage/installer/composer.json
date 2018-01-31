@@ -1,0 +1,12 @@
+{
+    "name": "viralfbpackage/installer",
+    "description": "Laravel 5 web based installer",
+    "authors": [
+        {
+            "name": "viralfbpackage",
+            "email": "ravgrg@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

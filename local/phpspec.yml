@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: viralfb
+        psr4_prefix: viralfb
+        src_path: app

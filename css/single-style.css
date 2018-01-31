@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Boogaloo|Shadows+Into+Light+Two');
+.blog-post h1{
+    text-align: center;
+    font-family: 'Boogaloo', cursive;
+}
+
+.blog-post h4{
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+.blog-post img{
+    width: 70%;
+    height: auto;
+    display: block;
+    margin:auto;
+}
+
+.blog-sidebar{
+    padding: 10px;
+}
+.sidebar-module{
+    text-align: center;
+}
+
+.share-on-facebook{
+    display: block;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 130%;
+    font-weight: bold;
+    background-color: #3b5998;
+}
+
+.share-on-facebook:hover{
+    background-color:#2d4373;
+    text-decoration: none;
+}
+
+.f-icon{
+    font-size: 140% !important;
+    padding-right: 10px;
+    margin-right: 7px;
+    border-right:1px solid rgba(0, 0, 0, 0.5);;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .share-on-facebook{
+        width: 70%;
+        font-size: 4vw;
+    }
+
+}
